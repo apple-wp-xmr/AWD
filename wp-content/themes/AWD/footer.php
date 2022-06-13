@@ -1,4 +1,5 @@
 <?php
+
 /**
  * footer template
  * 
@@ -7,6 +8,9 @@
 ?>
 
 <footer class="footer">this is my footer</footer>
+</div>
+</div>
 <?php wp_footer(); ?>
 </body>
+
 </html>
