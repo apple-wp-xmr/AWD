@@ -4,3 +4,6 @@ Author: Dmitry
 Version: 1.0
 Text Domain: AWD
 */
+body {
+  background-color: #f5f5f5;
+}
