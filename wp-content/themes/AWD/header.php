@@ -16,4 +16,5 @@
     <?php wp_head(); ?>
 </head>
 <body>
+    <!-- <php? wp_body_open(); ?> -->
     <header class="header">this is my header</header>
